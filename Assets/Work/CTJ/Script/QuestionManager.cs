@@ -11,5 +11,5 @@ public class QuestionManager : MonoBehaviour
     [SerializeField] private TextMeshProUGUI _questionText;
     [SerializeField] private TextMeshProUGUI _numText;
 
-    Sequence sequence = DOTween.Sequence();
+    //Sequence sequence = DOTween.Sequence();
 }
